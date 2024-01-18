@@ -1,0 +1,21 @@
+{
+    "rawdata": "sweep_sound.wav",
+    "window_length": 4096,
+    "rawdata_type": "sound",
+    "sampling_rate": 48000,
+    "working_dir": "analysis",
+    "base_segment": "analysis/segments.csv",
+    "base_xy": "analysis/xy.dat",
+    "status_mi": "analysis/status.mi",
+    "status_ms": "analysis/status.ms",
+    "map_inspector": true,
+    "window_function": "hanning",
+    "segment_overlap_ratio": 50.0,
+    "add_segment": "analysis/segments-add.csv",
+    "add_xy": "analysis/add-xy.dat",
+    "add_status_mi": "analysis/status-add.mi",
+    "saved_date": "2023-12-15 15:08:11",
+    "map_inspector_sharable": false,
+    "monitoring_scope": false,
+    "monitoring_scope_sharable": false
+}
