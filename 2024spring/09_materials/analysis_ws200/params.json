@@ -1,0 +1,17 @@
+{
+    "working_dir": "analysis_ws200",
+    "rawdata": "rawdata/testdata_for_toor.csv",
+    "rawdata_type": "table",
+    "type_weight": "analysis_ws200/type_weight.csv",
+    "reduce_factor": 1,
+    "window_size": 200,
+    "map_inspector": true,
+    "base_segment": "analysis_ws200/segments.csv",
+    "base_xy": "analysis_ws200/xy.dat",
+    "status_mi": "analysis_ws200/status.mi",
+    "status_ms": "analysis_ws200/status.ms",
+    "item_normalization": true,
+    "vector_normalization": true,
+    "saved_date": "2024-06-14 18:53:33",
+    "type_weight_hash": "cf37b2e97b014661c78b49d5ea97142e0648fa021017cd6a121b47c6d431e9e3"
+}

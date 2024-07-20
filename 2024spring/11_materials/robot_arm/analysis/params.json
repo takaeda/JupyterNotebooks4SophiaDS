@@ -1,0 +1,22 @@
+{
+    "rawdata": "robot_arm.wav",
+    "sampling_rate": 48000,
+    "window_length": 8192,
+    "working_dir": "analysis",
+    "high_pass_filter": 200,
+    "low_pass_filter": 20000,
+    "map_inspector": false,
+    "window_function": "hanning",
+    "rawdata_type": "sound",
+    "base_segment": "analysis/segments.csv",
+    "base_xy": "analysis/xy.dat",
+    "status_mi": "analysis/status.mi",
+    "add_rawdata": "robot_arm-part2.wav",
+    "add_segment": "analysis/segments-add.csv",
+    "add_xy": "analysis/add-xy.dat",
+    "add_status_mi": "analysis/status-add.mi",
+    "status_ms": "analysis/status.ms",
+    "monitoring_scope": false,
+    "monitoring_scope_sharable": false,
+    "saved_date": "2024-06-28 15:44:17"
+}

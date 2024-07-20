@@ -1,0 +1,13 @@
+#No,Title,Type (int/float/enum/date/none),Weight (>= 0)
+1,No,int,0
+2,ID,int,0
+3,Clump Thickness,int,1
+4,Uniformity of Cell Size,int,1
+5,Uniformity of Cell Shape,int,1
+6,Marginal Adhesion,int,1
+7,Single Epithelial Cell Size,int,1
+8,Bare Nuclei,int,1
+9,Bland Chromatin,int,1
+10,Normal Nucleoli,int,1
+11,Mitoses,int,1
+12,Diagnosis,enum,0
